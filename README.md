@@ -15,3 +15,7 @@ I implemented a neural network trained on historical bike sharing data to predic
 **Graphing the Model:**
 
 ![training_validation](https://user-images.githubusercontent.com/18673328/52244843-2c98e800-2894-11e9-83a0-39b8d8272d75.PNG)
+
+**Final Thoughts:**
+
+Predictions for December 11 - Dec 21 were close to the actual data. After Dec 21 the model overestimated bike ridership, most likely because it hadn't seen holiday season training examples. 
